@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **aimeelramirez/aimeelramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![githubprofilepic](https://user-images.githubusercontent.com/42796226/148680117-4e750b27-f17f-4817-aef4-7edc6637c5c1.png)
