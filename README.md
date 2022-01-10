@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <a href='https://www.buymeacoffee.com/aimeelramirez'>![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20@aimeelramirez-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</a>
 
 ## 💬 Ask me about ...
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
