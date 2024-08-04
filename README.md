@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 
 ## 💬 Ask me about ...
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+Play ball? https://aimeelramirez.github.io/Ball_Unity/
+
+Image upload to Knit or Crochet pattern pixel art? https://github.com/aimeelramirez/Bunny 
