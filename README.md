@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my GitHub profile page! 
+# Welcome to Aimee's GitHub! 
 
 ## 😄 Pronouns: 
 <p>she/her</p>
