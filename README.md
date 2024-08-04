@@ -1,4 +1,3 @@
-
 <!--
 **aimeelramirez/aimeelramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to Aimee's GitHub! 
+# Welcome to Aimee's GitHub! 🎉
 
-## 😄 Pronouns: 
-<p>she/her</p>
+## 🌟 About Me:
+I’m Aimee, a passionate creator working on a variety of exciting projects! Here’s a snapshot of what I’m up to:
 
-## 📫 How to reach me:
-<a href='https://twitter.com/aimeelramirez'>![Twitter](https://img.shields.io/badge/@aimeelramirez-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+## 🔭 Currently Working On:
+- **[Play ball?](https://aimeelramirez.github.io/Ball_Unity/)** – Dive into my Unity game project and enjoy some fun gameplay!
+- **[Bunny Pixel Art](https://github.com/aimeelramirez/Bunny)** – Check out my work on pixel art for knit and crochet patterns.
 
-## 💬 Ask me about ...
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+## 🌱 Currently Learning:
+- **Crunchyroll Development** – I’m exploring the world of Crunchyroll integrations and how to create amazing content!
 
-Play ball? https://aimeelramirez.github.io/Ball_Unity/
+## 💬 Ask Me About:
+- **Crunchyroll** – Let’s chat about all things Crunchyroll and anime! ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
-Image upload to Knit or Crochet pattern pixel art? https://github.com/aimeelramirez/Bunny 
+## 📫 How to Reach Me:
+- **[Twitter](https://twitter.com/aimeelramirez)** – Feel free to connect with me and follow my updates! ![Twitter](https://img.shields.io/badge/@aimeelramirez-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+## 😄 Pronouns:
+- **She/Her** 
+
+## ⚡ Fun Fact:
+I love combining my passion for gaming and art into unique projects! 
+
+---
+
+Feel free to explore and reach out—I’m always excited to connect and collaborate!
