@@ -20,7 +20,7 @@ I’m Aimee, a passionate creator working on a variety of exciting projects! Her
 
 ## 🔭 Currently Working On:
 - **[Play ball?](https://aimeelramirez.github.io/Ball_Unity/)** – Dive into my Unity game project and enjoy some fun gameplay!
-- **[Bunny Pixel Art](https://aimeelramirez.github.io/Bunny/)** – Check out my work on pixel art for knit and crochet patterns.
+- **[Pixel Art Embroidery/Crochet/Knit mapper]([https://aimeelramirez.github.io//](https://aimeelramirez.github.io/image-to-knit-or-crochet-pattern-app/))** – Check out my work on pixel art for knit and crochet patterns.
 
 ## 🌱 Currently Learning:
 - **Crunchyroll Development** – I’m exploring the world of Crunchyroll integrations and how to create amazing content!
