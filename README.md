@@ -1,42 +1,46 @@
-<!--
-**aimeelramirez/aimeelramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aimee Ramirez | Software Engineer 💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Welcome to Aimee's GitHub! 🎉
-
-## 🌟 About Me:
-I’m Aimee, a passionate creator working on a variety of exciting projects! Here’s a snapshot of what I’m up to:
-
-## 🔭 Currently Working On:
-- **[Play ball?](https://aimeelramirez.github.io/Ball_Unity/)** – Dive into my Unity game project and enjoy some fun gameplay!
-- **[Pixel Art Embroidery/Crochet/Knit mapper](https://aimeelramirez.github.io/image-to-knit-or-crochet-pattern-app)** – Check out my work on pixel art for knit and crochet patterns.
-
-## 🌱 Currently Learning:
-- **Crunchyroll Development** – I’m exploring the world of Crunchyroll integrations and how to create amazing content!
-
-## 💬 Ask Me About:
-- **Crunchyroll** – Let’s chat about all things Crunchyroll and anime! ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
-
-## 📫 How to Reach Me:
-- **[Twitter](https://twitter.com/aimeelramirez)** – Feel free to connect with me and follow my updates! ![Twitter](https://img.shields.io/badge/@aimeelramirez-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-## 😄 Pronouns:
-- **She/Her** 
-
-## ⚡ Fun Fact:
-I love combining my passion for gaming and art into unique projects! 
+🌐 **Location**: Rhody | 📧 **Email**: aimeelramirez@outlook.com | 🌟 **GitHub**: [github.com/aimeelramirez](https://github.com/aimeelramirez)
 
 ---
 
-Feel free to explore and reach out—I’m always excited to connect and collaborate!
+## 📋 Resume
+You can view my resume in multiple formats:
+- [📄 PDF Version](assets/Aimee_Ramirez_Resume.pdf)
+---
+
+## 📂 About Me
+Hi there! 👋 i'm Aimee Ramirez, a passionate and adaptable **Software Engineer** with extensive experience in **AI, web development, and prompt engineering**. I specialize in creating robust solutions for cutting-edge projects and collaborating with innovative teams.  
+
+💼 Currently working as a **Software Engineer (AI Role)** with expertise in training **Large Language Models (LLMs)** and evaluating AI responses for precision and accuracy.  
+🌱 Always learning and open to side projects that push the boundaries of technology!
+
+---
+
+## 🔧 Skills
+- **Programming Languages**: Python, JavaScript, PHP, Ruby
+- **Web Development**: React.js, Node.js, HTML5/CSS3, Drupal
+- **AI & Data**: Prompt Engineering, Data Annotation, AI Model Training
+- **Tools**: Git, Docker, MongoDB, PostgreSQL, Figma, Adobe Products
+---
+
+## 🚀 Side Projects & Services
+I’m open to side projects or freelancing opportunities! Here are some ideas I can help you with:
+1. **Custom Website Development**: Build responsive, user-friendly websites using modern frameworks.
+2. **AI Prompt Engineering**: Optimize your AI models with tailored prompts and data annotations.
+3. **Freelance Web Development**: From small business websites to personal portfolios, I’ve got you covered.
+4. **Technical Support**: Debugging, features, performance optimization, and software validation.
+
+👉 Feel free to [contact me](mailto:aimeelramirez@outlook.com) for collaboration opportunities!
+
+---
+
+
+## 🤝 Let’s Collaborate!
+- **Freelance Projects**: Open to freelance opportunities in web development or AI-driven tasks.
+- **Teamwork**: Collaborate on open-source projects or contribute to LLM improvements.
+
+---
+
+**📩 Contact**:  
+Email: aimeelramirez@outlook.com | [LinkedIn](https://www.linkedin.com/in/aimeelramirez) | [GitHub](https://github.com/aimeelramirez)
