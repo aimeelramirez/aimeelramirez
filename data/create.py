@@ -65,7 +65,13 @@ resume_content = {
         "Developed and maintained application software to support mission-critical operations, ensuring high performance and reliability.",
         "Conducted system analysis and designed solutions tailored to business and operational requirements.",
         "Provided advanced technical support, resolving complex issues and minimizing downtime.",
-        "Successfully completed projects within tight deadlines, adhering to budgetary constraints."
+        "Successfully completed projects within tight deadlines, adhering to budgetary constraints.",
+        
+        ("Rite-Solutions - Software Engineer - Oct 2019 - Feb 2024 · 4 yrs 5 mos", True, True),
+        "Designed, developed, and maintained software applications to support essential operations, ensuring optimal performance and reliability.",
+        "Performed in-depth system analysis and crafted solutions aligned with organizational and business needs. ",
+"Delivered expert technical support by troubleshooting and resolving critical issues, reducing operational latencies.",  
+"Achieved project milestones on schedule and within budget, meeting  deadlines and financial parameters. ",
     ],
 
     "Education": [
