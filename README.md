@@ -1,4 +1,4 @@
-# Aimee Ramirez | Software Engineer 💻
+# Aimee Ramirez 💻
 
 🌐 **Location**: Rhody | 📧 **Email**: aimeelramirez@outlook.com | 🌟 **GitHub**: [github.com/aimeelramirez](https://github.com/aimeelramirez)
 
