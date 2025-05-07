@@ -1,8 +1,7 @@
 ![397C201D-8440-422E-99ED-85ED996B4E7E](https://github.com/user-attachments/assets/5fc8aeba-aa29-45d9-bef5-6ce3ac95baa8)
 # Aimee Ramirez 💻
 
-🌐 **Location**: Rhody | 📧 **Email**: aimeelramirez@outlook.com | 🌟 **GitHub**: https://aimeelramirez.dev
-https://aimeelramirez.com
+🌐 **Location**: Rhody | 📧 **Email**: support@aimeelramirez.dev | 🌟 **GitHub**: https://aimeelramirez.com
 
 ---
 
