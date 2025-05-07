@@ -9,7 +9,7 @@
 
 ## 📋 Resume
 You can view my resume in multiple formats:
-- [📄 PDF Version](assets/Aimee_Ramirez_Resume.pdf)
+- [📄 PDF VIEW](https://aimeelramirez.dev/assets/documents/resume)
 ---
 
 ## 📂 About Me
@@ -34,7 +34,7 @@ I’m open to side projects or freelancing opportunities! Here are some ideas I 
 3. **Freelance Web Development**: From small business websites to personal portfolios, I’ve got you covered.
 4. **Technical Support**: Debugging, features, performance optimization, and software validation.
 
-👉 Feel free to [contact me](mailto:aimeelramirez@outlook.com) for collaboration opportunities!
+👉 Feel free to [contact me](mailto:support@aimeelramirez.dev) for collaboration opportunities!
 
 ---
 
